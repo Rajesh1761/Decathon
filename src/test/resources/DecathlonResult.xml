@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AthleticResults>
+    <Athlete>
+        <name>JOHN SMITH</name>
+        <ranking>1</ranking>
+        <score>3168</score>
+    </Athlete>
+    <Athlete>
+        <name>JAAN LEPP</name>
+        <ranking>3</ranking>
+        <score>2446</score>
+    </Athlete>
+</AthleticResults>
